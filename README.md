@@ -18,8 +18,10 @@ dependencies {
 	}
 ```
 
+ > Step 3. Add Java code
 ```java
-        Toaster.SimpleToastGit(MainActivity.this, "Hello World");
+
+  Toaster.SimpleToastGit(MainActivity.this, "Hello World");
 
 
 
