@@ -19,6 +19,7 @@ dependencies {
 ```
 
 ```java
+        Toaster.SimpleToastGit(MainActivity.this, "Hello World");
 
 
 
